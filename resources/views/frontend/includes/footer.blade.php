@@ -6,7 +6,7 @@
                     <div class="footer-widget widget wow animate__animated animate__fadeInLeft animated">
                         <div class="about_us_widget">
                             <a href="index.html" class="footer-logo">
-                                <img src="assets/img/logo.png" alt="footer logo"></a>
+                                <img src="{{asset('dormify/assets/img/logo-footer.jpeg')}}" alt="footer logo"></a>
                         </div>
                     </div>
                     <div class="widget widget_nav_menu wow animate__animated animate__fadeInLeft animated">
@@ -83,7 +83,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-area-inner">
-                        © Copyrights 2020 Oxo All rights reserved.
+                        © Copyrights 2020 Dormify All rights reserved.
                     </div>
                 </div>
             </div>

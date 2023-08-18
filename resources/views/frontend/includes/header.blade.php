@@ -142,7 +142,7 @@
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
                     <a href="index.html" class="logo">
-                        <img src="assets/img/logo-02.png" alt>
+                        <img src="{{asset('dormify/assets/img/logo.png')}}" alt>
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bizcoxx_main_menu" aria-expanded="false" aria-label="Toggle navigation">
@@ -182,11 +182,13 @@
                 <div class="header-inner desktop-center">
 
                     <div class="inner-top padding-bottom-50 wow animate__animated animate__fadeInUp">
-                        <a href="#" class="text-btn">Free</a>
-                        <h4 class="in-title">forever no credit card required</h4>
+                        {{-- <a href="#" class="text-btn">Free</a> --}}
+                        <h4 class="in-title">Welcome to Dormify</h4>
                     </div>
-                    <h1 class="title wow animate__animated animate__fadeInUp animated">Where work from home teams work done</h1>
-                    <p class="advantage-para wow animate__animated animate__fadeInUp animated">Capture and retrieve your lists across devices to help you stay organized at work, home, and on the go.</p>
+                    <h1 class="title wow animate__animated animate__fadeInUp animated">Your Path to Perfect Student Accommodations</h1>
+                    <p class="advantage-para wow animate__animated animate__fadeInUp animated">
+                        Are you a student searching for the ideal place to call home during your academic journey? Look no further. Dormify is here to revolutionize the way you discover student accommodations
+                    </p>
                 </div>
 
             </div>

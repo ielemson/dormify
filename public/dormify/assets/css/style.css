@@ -3931,7 +3931,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   justify-content: center;
 }
 .header-area.header-btech .header-inner .inner-top .text-btn {
-  background: #F5861F;
+  background: #8cc63e;
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
   color: #fff;
@@ -6952,8 +6952,8 @@ Client Area
   background-color: #930ed8;
 }
 .btn-wrapper .boxed-btn.btn-finance.style-01 {
-  background-color: #f5861f;
-  border: 2px solid #f5861f;
+  background-color: #8cc63e;
+  border: 2px solid #8cc63e;
   color: #fff;
 }
 .btn-wrapper .boxed-btn.btn-finance.style-01:hover {
@@ -7013,7 +7013,7 @@ Client Area
 }
 .btn-wrapper .boxed-btn.btn-work {
   padding: 15px 40px;
-  background-color: #f5861f;
+  background-color: #8cc63e;
   border-radius: 5px;
   color: #fff;
 }
@@ -7070,8 +7070,8 @@ Client Area
   border-radius: 5px;
 }
 .btn-wrapper .login-btn.style-01:hover {
-  background-color: #f5861f;
-  border: 2px solid #f5861f;
+  background-color: #8cc63e;
+  border: 2px solid #8cc63e;
   color: #fff;
 }
 
@@ -7784,7 +7784,7 @@ Client Area
   margin-top: 15px;
 }
 .single-counterup-01.white .content .count-wrap {
-  color: #f5861f;
+  color: #8cc63e;
 }
 .single-counterup-01 .content .title {
   font-size: 18px;
@@ -8491,7 +8491,8 @@ Client Area
   font-size: 60px;
   line-height: 80px;
   transition: all 0.3s;
-  color: #f5aa67;
+  color: #8cc63e;
+  /* color: #f5aa67; */
   display: inline-block;
   position: relative;
   margin-left: 20px;
@@ -9357,7 +9358,7 @@ Client Area
 }
 .single-testimonial-item-10 .content-wrap .icon {
   font-size: 160px;
-  color: #f5861f;
+  color: #8cc63e;
   margin-left: -40px;
   margin-right: 40px;
 }
@@ -10791,7 +10792,7 @@ Single package item
   font-size: 16px;
   line-height: 26px;
   color: #919191;
-  max-width: 500px;
+  max-width: 1500px;
 }
 .advantege-work-area .advantege-img {
   height: 912px;

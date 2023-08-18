@@ -5,15 +5,16 @@
 @section('content')
 
 <div class="advantege-work-area padding-top-120 padding-bottom-120">
-    <div class="container">
+    <div class="container-fluid">
         <div class="advantege-img" style="background-image: url(dormify/assets/img/bg/businesstech/shape-02.png)"></div>
         <div class="advantege-img-02" style="background-image: url(dormify/assets/img/bg/businesstech/shape-01.png)"></div>
         <div class="row">
             <div class="col-lg-6">
                 <div class="content">
                     <div class="section-title padding-bottom-50">
-                        <h4 class="title wow animate__animated animate__fadeInUp animated">Take advantege of our remote work resources</h4>
-                        <p class="wow animate__animated animate__fadeInUp animated">Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development</p>
+                        <h4 class="title wow animate__animated animate__fadeInUp animated">What we do </h4>
+                        <p class="wow animate__animated animate__fadeInUp animated">Discover Your Perfect Student Accommodation with Dormify
+                            At Dormify, we understand that finding the right student accommodation can be a daunting task. That's why we've crafted a unique solution that empowers you to search smarter and find your perfect haven. Our mission is to simplify the process, eliminate guesswork, and ensure you land in the ideal accommodation that suits your needs and preferences.</p>
                     </div>
                 </div>
             </div>
@@ -22,33 +23,33 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
-                        <h4 class="title">Remote Works</h4>
-                        <p>Dozens of leading utility providers like National Grid gaining</p>
+                        <h4 class="title">Effortless Search</h4>
+                        <p>Simplify your hunt for student accommodations using our intuitive platform.</p>
                     </div>
                     <div class="icon">
-                        <i class="flaticon-computer"></i>
+                        <i class="flaticon-search"></i>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
-                        <h4 class="title">Workshops</h4>
-                        <p>Dozens of leading utility providers like National Grid gaining</p>
+                        <h4 class="title">Tailored Matches</h4>
+                        <p> Personalized options that match your needs, location, and lifestyle.</p>
                     </div>
                     <div class="icon">
-                        <i class="fas fa-tools"></i>
+                        <i class="fas fa-puzzle-piece"></i>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
-                        <h4 class="title">Webinars</h4>
-                        <p>Dozens of leading utility providers like National Grid gaining</p>
+                        <h4 class="title">Trustworthy Partnerships</h4>
+                        <p>Collaborating with universities for reliable and verified accommodations.</p>
                     </div>
                     <div class="icon">
-                        <i class="flaticon-contract"></i>
+                        <i class="fas fa-handshake"></i>
                     </div>
                 </div>
             </div>
@@ -56,40 +57,7 @@
     </div>
 </div>
 
-<div class="client-area padding-bottom-120">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="section-title desktop-center padding-bottom-40 wow animate__animated animate__fadeInUp animated">
-                    <h3 class="title">11m+ Users trust ximas worldwide</h3>
-                </div>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-md-10">
-                <div class="client-area wow animate__animated animate__fadeInUp animated">
-                    <div class="client-active-area">
-                        <div class="single-brand">
-                            <a href="#"><img src="dormify/assets/img/client/01.png" alt></a>
-                        </div>
-                        <div class="single-brand">
-                            <a href="#"><img src="dormify/assets/img/client/02.png" alt></a>
-                        </div>
-                        <div class="single-brand">
-                            <a href="#"><img src="dormify/assets/img/client/03.png" alt></a>
-                        </div>
-                        <div class="single-brand">
-                            <a href="#"><img src="dormify/assets/img/client/04.png" alt></a>
-                        </div>
-                        <div class="single-brand">
-                            <a href="#"><img src="dormify/assets/img/client/01.png" alt></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 
 <div class="batter-work-area bg-image padding-bottom-200 padding-top-200" style="background-image: url(dormify/assets/img/bg/businesstech/bg-02.png);">
     <div class="container">
