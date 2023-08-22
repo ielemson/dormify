@@ -5,11 +5,11 @@
 @section('content')
 
 <div class="advantege-work-area padding-top-120 padding-bottom-120">
-    <div class="container-fluid">
+    <div class="container">
         <div class="advantege-img" style="background-image: url(dormify/assets/img/bg/businesstech/shape-02.png)"></div>
         <div class="advantege-img-02" style="background-image: url(dormify/assets/img/bg/businesstech/shape-01.png)"></div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-9">
                 <div class="content">
                     <div class="section-title padding-bottom-50">
                         <h4 class="title wow animate__animated animate__fadeInUp animated">What we do </h4>
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
                         <h4 class="title">Effortless Search</h4>
@@ -31,7 +31,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
                         <h4 class="title">Tailored Matches</h4>
@@ -42,7 +42,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="single-icon-box-09">
                     <div class="content">
                         <h4 class="title">Trustworthy Partnerships</h4>
@@ -162,50 +162,6 @@
     </div>
 </div>
 
-<div class="call-to-action-area-01 bg-image padding-top-120" style="background-image: url(dormify/assets/img/bg/businesstech/bg-03.png);">
-    <div class="container">
-        <div class="call-to-action-inner style-08">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <h2 class="title style-01 padding-bottom-55">Train you on best practices we’ve picked up from other enterprise customers.</h2>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="counter-item-list">
-                    <div class="col-lg-4">
-                        <div class="single-counterup-01 white">
-                            <div class="content">
-                                <div class="count-wrap">
-                                    <span class="count-num">4.81</span>
-                                </div>
-                                <h4 class="title">User Reviews</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="single-counterup-01 white">
-                            <div class="content">
-                                <div class="count-wrap">
-                                    <span class="count-num">33,629</span>
-                                </div>
-                                <h4 class="title">Trusted & loved by users</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="single-counterup-01 white">
-                            <div class="content">
-                                <div class="count-wrap">
-                                    <span class="count-num">107</span>k+</div>
-                                <h4 class="title">Total Downloads</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <section class="testimonial-area blue padding-top-120 padding-bottom-120">
     <div class="container">

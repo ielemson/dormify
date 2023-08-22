@@ -141,7 +141,7 @@
         <div class="container nav-container social-nav">
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
-                    <a href="index.html" class="logo">
+                    <a href="{{url('/')}}" class="logo">
                         <img src="{{asset('dormify/assets/img/logo.png')}}" alt>
                     </a>
                 </div>
@@ -175,19 +175,14 @@
 
 </div>
 
-<div class="header-area header-btech header-bg" style="background-image: url(dormify/assets/img/bg/businesstech/bg.png);">
+<div class="header-area header-btech header-bg" style="background-image: url(dormify/assets/img/bg/businesstech/bg4.jpg);">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-6">
+            <div class="col-lg-12 mx-auto">
                 <div class="header-inner desktop-center">
-
-                    <div class="inner-top padding-bottom-50 wow animate__animated animate__fadeInUp">
-                        {{-- <a href="#" class="text-btn">Free</a> --}}
-                        <h4 class="in-title">Welcome to Dormify</h4>
-                    </div>
-                    <h1 class="title wow animate__animated animate__fadeInUp animated">Your Path to Perfect Student Accommodations</h1>
-                    <p class="advantage-para wow animate__animated animate__fadeInUp animated">
-                        Are you a student searching for the ideal place to call home during your academic journey? Look no further. Dormify is here to revolutionize the way you discover student accommodations
+                    <h1 class="title wow animate__animated animate__fadeInUp animated">Your <b data-v-77a797cd="" class="text-gradient">Path</b> to Perfect Student Accommodations</h1>
+                    <p class="advantage-para wow animate__animated animate__fadeInUp animated mx-auto">
+                        Dormify is your ultimate destination in the quest for the perfect student accommodations. Revolutionizing the way you discover homes during your academic journey.
                     </p>
                 </div>
 

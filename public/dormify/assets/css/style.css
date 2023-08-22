@@ -70,8 +70,8 @@ Version: 1.0.0
 /*-----------------
     # Typography
 -----------------*/
-@import url("../../../../../https@fonts.googleapis.com/css2@family=open+sans_3aital,wght_400,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap");
-@import url("../../../../../https@fonts.googleapis.com/css2@family=poppins_3aital,wght_400,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&fami071adb6004");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap");
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
@@ -3916,14 +3916,21 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   z-index: 1;
 }
 .header-area.header-btech .header-inner .title {
-  font-size: 60px;
+  font-size: 2.5rem;
   line-height: 70px;
   font-weight: 700;
   color: #fff;
 }
+.text-gradient[data-v-77a797cd] {
+  background: linear-gradient(180deg,#5c89fc 7.29%,#8cc63e 82.81%);
+   background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .header-area.header-btech .header-inner p {
   max-width: 560px;
   padding-bottom: 10px;
+  text-align: center !important;
 }
 .header-area.header-btech .header-inner .inner-top {
   display: flex;
@@ -6599,7 +6606,7 @@ Client Area
   bottom: 30px;
   width: 50px;
   height: 50px;
-  background-image: linear-gradient(125deg, #fb3c7f 0%, #ffc05e 100%);
+  background-image: linear-gradient(125deg, #0032B9 0%, #1f54e6 100%);
   color: #fff;
   text-align: center;
   line-height: 50px;
@@ -8491,7 +8498,7 @@ Client Area
   font-size: 60px;
   line-height: 80px;
   transition: all 0.3s;
-  color: #8cc63e;
+  color: #0032B9;
   /* color: #f5aa67; */
   display: inline-block;
   position: relative;

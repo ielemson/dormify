@@ -6,7 +6,7 @@
                     <div class="footer-widget widget wow animate__animated animate__fadeInLeft animated">
                         <div class="about_us_widget">
                             <a href="index.html" class="footer-logo">
-                                <img src="{{asset('dormify/assets/img/logo-footer.jpeg')}}" alt="footer logo"></a>
+                                <img src="{{asset('dormify/assets/img/logo-footer.png')}}" alt="footer logo"></a>
                         </div>
                     </div>
                     <div class="widget widget_nav_menu wow animate__animated animate__fadeInLeft animated">
