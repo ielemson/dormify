@@ -1,5 +1,5 @@
 <footer class="footer-area">
-    <div class="footer-top style-04 padding-top-85 padding-bottom-50">
+    <div class="footer-top style-04 padding-top-20 padding-bottom-20">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -35,7 +35,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-6 col-sm-6">
+                {{-- <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="footer-widget style-01 widget widget_nav_menu wow animate__animated animate__fadeInUp animated">
                         <h4 class="widget-title">Company</h4>
                         <ul>
@@ -74,7 +74,7 @@
                             <li><a href="#">Customers</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-area-inner">
-                        © Copyrights 2020 Dormify All rights reserved.
+                        © Copyrights 2023 Dormify All rights reserved.
                     </div>
                 </div>
             </div>

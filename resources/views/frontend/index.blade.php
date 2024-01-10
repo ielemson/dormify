@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="advantege-work-area padding-top-120 padding-bottom-120">
+<div id="whatwedo"  class="advantege-work-area padding-top-120 padding-bottom-120">
     <div class="container">
         <div class="advantege-img" style="background-image: url(dormify/assets/img/bg/businesstech/shape-02.png)"></div>
         <div class="advantege-img-02" style="background-image: url(dormify/assets/img/bg/businesstech/shape-01.png)"></div>
@@ -59,7 +59,7 @@
 
 
 
-<div class="batter-work-area bg-image padding-bottom-200 padding-top-200" style="background-image: url(dormify/assets/img/bg/businesstech/bg-02.png);">
+{{-- <div class="batter-work-area bg-image padding-bottom-200 padding-top-200" style="background-image: url(dormify/assets/img/bg/businesstech/bg-02.png);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-5">
@@ -122,9 +122,9 @@
             <a href="#" class="boxed-btn btn-work">Try it For 7 Days Free</a>
         </div>
     </div>
-</div>
+</div> --}}
 
-<div id="enterprice" class="enterprice-ready-area padding-bottom-120 padding-top-120">
+{{-- <div id="enterprice" class="enterprice-ready-area padding-bottom-120 padding-top-120">
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
@@ -141,9 +141,9 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
-<div class="enterprice-ready-area style-01">
+{{-- <div class="enterprice-ready-area style-01">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5">
@@ -160,48 +160,10 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 
-<section class="testimonial-area blue padding-top-120 padding-bottom-120">
-    <div class="container">
-        <div class="btech-testimonial">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title desktop-center padding-bottom-55 ">
-                        <h4 class="title wow animate__animated animate__fadeInUp animated">Join thousand of happy customers</h4>
-                        <p class="wow animate__animated animate__fadeInUp animated">Each time a digital asset is purchased or sold, Sequoir donates a percentage .</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xl-10">
-                <div class="single-testimonial-item-10">
-                    <div class="thumb">
-                        <img src="dormify/assets/img/testimonial/brand/01.png" alt>
-                    </div>
-                    <div class="content-wrap">
-                        <div class="icon">
-                            <i class="fas fa-quote-right"></i>
-                        </div>
-                        <div class="content">
-                            <p class="description">we’ve centralized all of our scientific data. It has significantly facilitated deeper insights from data and helped us move.</p>
-                            <div class="author-details">
-                                <div class="author-meta">
-                                    <h4 class="title">Jonathon Doe</h4>
-                                    <div class="designation">CEO, Oxo Startup</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<div class="accoridions padding-top-120 padding-bottom-120">
+<section id="faq" class="testimonial-area blue pb-5 pt-5">
     <div class="container">
         <div class="row justify-content-center padding-bottom-50">
             <div class="col-lg-8 col-md-12">
@@ -277,6 +239,87 @@
             </div>
         </div>
     </div>
-</div>
+</section>
+
+{{-- <section class="testimonial-area blue padding-top-120 padding-bottom-120">
+    <div class="accoridions padding-top-120 padding-bottom-120">
+        <div class="container">
+            <div class="row justify-content-center padding-bottom-50">
+                <div class="col-lg-8 col-md-12">
+                    <div class="section-title desktop-center">
+                        <h2 class="title">Frequently asked quetions</h2>
+                    </div>
+    
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="accordion-wrapper">
+    
+                        <div id="accordion">
+                            <div class="card">
+                                <div class="card-header" id="headingOwo">
+                                    <h5 class="mb-0">
+                                        <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseOwo" aria-expanded="false" aria-controls="collapseOwo">
+                                            How can I customize each pattern?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="collapseOwo" class="collapse show" data-parent="#accordion">
+                                    <div class="card-body style-01">
+                                        You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingTwo">
+                                    <h5 class="mb-0">
+                                        <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseOwo">
+                                            Do you offer discounts?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                    <div class="card-body style-01">
+                                        You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingThree">
+                                    <h5 class="mb-0">
+                                        <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseOwo">
+                                            Can I cancel a subscription at any time?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="collapseThree" class="collapse" data-parent="#accordion">
+                                    <div class="card-body style-01">
+                                        You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingFour">
+                                    <h5 class="mb-0">
+                                        <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                            Can I refund my money?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                                    <div class="card-body style-01">
+                                        You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> --}}
+
 
 @endsection
