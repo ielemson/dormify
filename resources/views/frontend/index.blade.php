@@ -182,13 +182,15 @@
                             <div class="card-header" id="headingOwo">
                                 <h5 class="mb-0">
                                     <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseOwo" aria-expanded="false" aria-controls="collapseOwo">
-                                        How can I customize each pattern?
+                                        How do I search for student accommodations on Dormify.Africa?
+
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseOwo" class="collapse show" data-parent="#accordion">
                                 <div class="card-body style-01">
-                                    You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    Simply enter your preferred location, budget, and other criteria in our search bar, and browse through the available options. Refine your search using advanced filters to find your perfect home.
+
                                 </div>
                             </div>
                         </div>
@@ -196,13 +198,13 @@
                             <div class="card-header" id="headingTwo">
                                 <h5 class="mb-0">
                                     <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseOwo">
-                                        Do you offer discounts?
+                                        Are the property listings on Dormify verified and trustworthy?
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseTwo" class="collapse" data-parent="#accordion">
                                 <div class="card-body style-01">
-                                    You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    Yes, we take great care to ensure the accuracy and reliability of our listings. Each property undergoes a verification process, and we encourage students to leave reviews to maintain transparency and accountability.
                                 </div>
                             </div>
                         </div>
@@ -210,13 +212,14 @@
                             <div class="card-header" id="headingThree">
                                 <h5 class="mb-0">
                                     <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseOwo">
-                                        Can I cancel a subscription at any time?
+                                        Can I schedule a visit to the accommodations before booking?
+
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseThree" class="collapse" data-parent="#accordion">
                                 <div class="card-body style-01">
-                                    You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    Absolutely! Many property listings offer the option to schedule a visit or even provide virtual tours. You can connect directly with the property owners to arrange a viewing at your convenience.
                                 </div>
                             </div>
                         </div>
@@ -224,13 +227,28 @@
                             <div class="card-header" id="headingFour">
                                 <h5 class="mb-0">
                                     <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can I refund my money?
+                                        How does the booking process work on Dormify?
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                                 <div class="card-body style-01">
-                                    You may have as many domains as you want; in fact, buying domains similar to your original domain—like misspellings or additional domain extensions—is something we advise in order to protect your brand.
+                                    In upcoming updates, once you've found your ideal accommodation, you can proceed to book it directly through our platform. We provide a secure online payment system and guide you through the necessary steps to complete the booking process smoothly.
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="collapseFive">
+                                <h5 class="mb-0">
+                                    <a class="collapsed white" role="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        What if I encounter any issues during my search experience?
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                                <div class="card-body style-01">
+                                    We strive to ensure a seamless experience, but if any issues arise, our dedicated customer support team is here to assist you. Simply reach out to us, and we'll promptly address your concerns and work towards a resolution.
                                 </div>
                             </div>
                         </div>
